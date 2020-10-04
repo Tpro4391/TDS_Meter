@@ -15,5 +15,5 @@ Dự án đo chất lượng nước máy lọc nước 3 điểm đo
 - tự động kết nối wifi, server
 ## Phiên bản
 ### V1.0
-  Khởi điểm phiên bản thương mại
-  Loại bỏ đo lưu lượng và lượng nước
+    - Khởi điểm phiên bản thương mại
+    - Loại bỏ đo lưu lượng và lượng nước
