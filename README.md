@@ -1,5 +1,6 @@
 # TDS_Meter
 Dự án đo chất lượng nước máy lọc nước 3 điểm đo
+<img src="https://github.com/Tpro4391/TDS_Meter/blob/main/Anh-3TDS.png">
 ## Thông số đo:
 - TDS1: Chất lượng nước vào sơ cấp
 - TDS2: Chất lượng nước vào sau 3 lõi lọc
