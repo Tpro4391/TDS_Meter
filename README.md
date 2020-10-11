@@ -17,3 +17,8 @@ Dự án đo chất lượng nước máy lọc nước 3 điểm đo
 ### V1.0
     - Khởi điểm phiên bản thương mại
     - Loại bỏ đo lưu lượng và lượng nước
+    
+### V1.1
+    - Fix Tab Connect cho phép kết nối wifi dễ dàng hơn
+    - Fix Lỗi hiệu chỉnh kiểm định
+    - Check DNS web local: http://twater.local/ và http://twater/ đều hoạt động OK
