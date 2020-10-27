@@ -23,3 +23,6 @@ Dự án đo chất lượng nước máy lọc nước 3 điểm đo
     - Fix Tab Connect cho phép kết nối wifi dễ dàng hơn
     - Fix Lỗi hiệu chỉnh kiểm định
     - Check DNS web local: http://twater.local/ và http://twater/ đều hoạt động OK
+
+### V1.2
+    - Cho phép TDS R0=0 mà không cảnh báo
