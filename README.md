@@ -26,3 +26,7 @@ Dự án đo chất lượng nước máy lọc nước 3 điểm đo
 
 ### V1.2
     - Cho phép TDS R0=0 mà không cảnh báo
+    
+### V1.3
+    - Giới hạn min chu kỳ setup đọc cảm biến là 30s
+    - Loại bỏ setup tài khoản đăng nhập
