@@ -30,3 +30,8 @@ Dự án đo chất lượng nước máy lọc nước 3 điểm đo
 ### V1.3
     - Giới hạn min chu kỳ setup đọc cảm biến là 30s
     - Loại bỏ setup tài khoản đăng nhập
+
+### V1.4
+    - Update trạng thái lên V10, IP V0 của blynk
+    - MAP data:
+    <img src="https://github.com/Tpro4391/TDS_Meter/blob/main/pin_map_V1.4.png">
